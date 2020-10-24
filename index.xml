@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Website of Daniel Escudero on Personal Website and Blog</title>
+    <link>https://deescuderoo.github.io/</link>
+    <description>Recent content in Personal Website of Daniel Escudero on Personal Website and Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://deescuderoo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://deescuderoo.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deescuderoo.github.io/about/</guid>
+      <description>Daniel Escudero   This website is still under construction
+ Hello! Welcome to my homepage. I am Daniel Escudero, I started in May 2017 as a PhD student at the Cryptography and Security group at Aarhus University, Denmark. I&amp;#39;m currently working under the supervision of Ivan Damgård, Jesper Buus Nielsen and Peter Scholl. I obtained my Bachelor&amp;#39;s degree in Mathematics from Universidad Nacional de Colombia in 2016 where I had the valuable opportunity to work in a research project on Multivariate Public Key Cryptography during the last two years of my studies.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://deescuderoo.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deescuderoo.github.io/publications/</guid>
+      <description>Peer-Reviewed Publications  2021    Secure Training of Decision Trees with Continuous Attributes
+  Authors: Mark Abspoel, Daniel Escudero, Nikolaj Volgushev
+  PoPETs 2021
+      2020    Secure Evaluation of Quantized Neural Networks   Authors: Anders Dalskov, Daniel Escudero and Marcel Keller.
+  PoPETs 2020
+    Improved Primitives for MPC over Mixed Arithmetic-Binary Circuits   Authors: Daniel Escudero, Satrajit Ghosh, Marcel Keller, Rahul Rachuri, Peter Scholl</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://deescuderoo.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deescuderoo.github.io/talks/</guid>
+      <description>2020    Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE
+  TPMPC 2020: Theory and Practice of Multi-Party Computation Workshops
+  Virtual Conference
+  June 2020
+    PRIMAL: A Framework for Secure Evaluation of Neural Networks
+  OpenMined Privacy Conference
+  Virtual Conference
+  September 2020
+    Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://deescuderoo.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deescuderoo.github.io/teaching/</guid>
+      <description>I&amp;#39;ve been a teaching assistant in the following courses.
+  Machine Learning (Aarhus University, fall 2020)
+  Computer Architecture, OSs and Networking (Aarhus University, spring 2019 and spring 2020)
+  Distributed Systems and Security (Aarhus University, fall 2018)
+  Computability and Logic (Aarhus University, spring 2018)
+  Machine Learning (Aarhus University, fall 2017)
+  Vector and Analytic Geometry (UNAL, 2016)
+  Basic Mathematics (UNAL, 2015)</description>
+    </item>
+    
+  </channel>
+</rss>
