@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cryptoday | Personal Website and Blog</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/">Home</a></li>
+      
+      <li><a href="/about/">About</a></li>
+      
+      <li><a href="/publications/">Publications</a></li>
+      
+      <li><a href="/talks/">Talks</a></li>
+      
+      <li><a href="/teaching/">Teaching</a></li>
+      
+      <li><a href="/other/">Other</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">Cryptoday</span></h1>
+
+
+
+</div>
+
+<main>
+
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Program
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<div id="outline-container-headline-2" class="outline-3">
+<h3 id="headline-2">
+(10.30 - 10.55) Perfectly Secure and Perfectly Correct Oblivious Parallel RAM with Sublinear Worst-Case Bandwidth Overhead
+</h3>
+<div id="outline-text-headline-2" class="outline-text-3">
+<ul>
+<li>
+<p><em>Adam Blatchley Hansen</em></p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-3">
+<h3 id="headline-3">
+(10.55 - 11.20) Optimal Oblivious Priority Queues
+</h3>
+<div id="outline-text-headline-3" class="outline-text-3">
+<ul>
+<li>
+<p>Zahra Jafargholi, Kasper Green Larsen and <em>Mark Simkin</em></p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Abstract:</strong> In this work, we present the first asymptotically optimal oblivious priority queue, which matches the lower bound of Jacob, Larsen, and Nielsen (SODA&#39;19). Our construction is conceptually simple, statistically secure, and has small hidden constants. We illustrate the power of our optimal oblivious priority queue by presenting a conceptually equally simple construction of statistically secure offline ORAMs with O(lg ⁡n) bandwidth overhead.</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
+(11.20 - 11.40) Coffee Break
+</h3>
+</div>
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+(11.40 - 12.05) Banquet: Short and Fast Signatures from AES
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<ul>
+<li>
+<p><strong>Carsten Baum</strong></p>
+</li>
+<li>
+<p><strong>Abstract:</strong> Post-quantum secure digital signatures are an active area of research, particularly due to the ongoing NIST Post-Quantum Cryptography Standardization process. Among the many candidates, the Picnic scheme (CCS 2017) stands out by following an unorthodox design philosophy: Picnic creates signatures by generating a non-interactive zero-knowledge proof in the MPC-in-the-Head paradigm, to prove knowledge of the preimage of a one-way function. To instantiate this efficiently, Picnic uses the MPC-friendly LowMC block cipher as a one-way function. In follow-up work, Delpech de Saint Guilhem et al. introduced BBQ (SAC 2019), a signature scheme with a similar design strategy to Picnic, but relying on the standard AES cipher instead of LowMC. Unfortunately, BBQ signatures appear to be substantially larger than Picnic ones for comparable security levels. In this work we introduce Banquet, a digital signature scheme with a similar design strategy to BBQ, but greatly improved in several aspects: For similar parameters to BBQ, we cut the required proof size, and therefore signature size, by more than 50%. This brings the signature sizes much closer to the original Picnic scheme for similar MPC-in-the-Head parameters, without relying on a non-standard block cipher. Additionally, we provide a prototype implementation of Banquet which shows that both signing and verification can be done in under 11ms on conventional hardware, only two times slower than the optimized Picnic3 implementation. For BBQ, no practical performance results have been given.</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-3">
+<h3 id="headline-6">
+(12.05 - 12.30) Sleepy MPC
+</h3>
+<div id="outline-text-headline-6" class="outline-text-3">
+<ul>
+<li>
+<p>Ivan Damgård, <strong>Daniel Escudero</strong> and Antigoni Polychroniadu</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-3">
+<h3 id="headline-7">
+(12.30 - 14.00) Lunch Break
+</h3>
+</div>
+<div id="outline-container-headline-8" class="outline-3">
+<h3 id="headline-8">
+(14.00 - 14.30) XMSS on RISC-V - Hardware Accelerators for PQC
+</h3>
+<div id="outline-text-headline-8" class="outline-text-3">
+<ul>
+<li>
+<p><em>Ruben Niederhagen</em></p>
+</li>
+<li>
+<p><strong>Abstract:</strong> The PQC signature scheme XMSS is relatively costly in regards to computation for key generation and signing. This can particularly be a burden on embedded devices. This talk briefly introduces XMSS and the RISC-V architecture and presents several hardware accelerators that facilitate to find the sweet spot in performance and hardware cost. </p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-3">
+<h3 id="headline-9">
+(14.30 - 15.15) Broadcast-Optimal Two Round MPC with an Honest Majority 
+</h3>
+<div id="outline-text-headline-9" class="outline-text-3">
+<ul>
+<li>
+<p>Ivan Damgård, Bernardo Magri, Luisa Siniscalchi and <em>Sophia Yakoubov</em></p>
+</li>
+<li>
+<p><strong>Abstract:</strong> This paper closes the question of the possibility of two-round MPC protocols achieving different security guarantees with and without the availability of broadcast in any given round. Cohen et al. [CGZ20] study this question in the dishonest majority setting; we complete the picture by studying the honest majority setting. In the honest majority setting, given broadcast in both rounds, it is known that the strongest guarantee — guaranteed output delivery — is achievable [GLS15]. We show that in this setting, given broadcast in the first round only, guaranteed output delivery is still achievable. Given broadcast in the second round only, identifiable abort and all weaker guarantees are achievable, but fairness — and thus guaranteed output delivery — are not. Finally, using only peer-to-peer channels, for corruption thresholds t&gt;1 we show that the weakest guarantee — selective abort — is the only one achievable. For t=1 and n≥4, it is known [IKP10,IKKP15] that guaranteed output delivery (and thus all weaker guarantees) are possible. We show that for t=1 and n=3 the strongest achievable guarantee is selective abort, resolving the question of best achievable guarantees in two-round secure computation protocols.</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-3">
+<h3 id="headline-10">
+(15.15 - 15.30) Coffee Break
+</h3>
+</div>
+<div id="outline-container-headline-11" class="outline-3">
+<h3 id="headline-11">
+(15.30 - 16.00) Follow-up to Broadcast-Optimal Two Round MPC with an Honest Majority
+</h3>
+<div id="outline-text-headline-11" class="outline-text-3">
+<ul>
+<li>
+<p><em>Divya Ravi</em></p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-12" class="outline-3">
+<h3 id="headline-12">
+(16.00 - 16.20) Reverse Firewalls for Adaptively Secure MPC without Setup
+</h3>
+<div id="outline-text-headline-12" class="outline-text-3">
+<ul>
+<li>
+<p>Suvradip Chakraborty, Chaya Ganesh, <em>Mahak Pancholi</em> and Pratik Sarkar</p>
+</li>
+<li>
+<p><strong>Abstract:</strong> We study Multi-party computation (MPC) in the setting of subversion, where the adversary tampers with the machines of honest parties. Our goal is to construct actively secure MPC protocols where parties are corrupted adaptively by an adversary (as in the standard adaptive security setting), and in addition, honest parties’ machines are compromised. The idea of reverse firewalls (RF) was introduced at EUROCRYPT 2015 by Mironov and Stephens-Davidowitz as an approach to protecting protocols against corruption of honest parties’ devices. Intuitively, an RF for a party P is an external entity that sits between P and the outside world and whose scope is to sanitize P’s incoming and outgoing messages in the face of subversion of their computer. Mironov and Stephens-Davidowitz construct a protocol for passively-secure two-party computation. At CRYPTO 2020, Chakraborty, Dziembowski and Nielsen constructed a protocol for secure computation with firewalls that improved on this result, both by extending it to multi-party computation protocol, and considering active security. In this paper, we revisit the security notions of RF for MPC and explore relationships among them. We put forward a definition for adaptively secure MPC in the reverse firewall setting, and then construct reverse firewalls for MPC in this stronger setting of adaptive security. We also resolve the open question of Chakraborty, Dziembowski and Nielsen by removing the need for a trusted setup in constructing RF for MPC. Towards this end, we construct reverse firewalls for adaptively secure augmented coin tossing and adaptively secure zero-knowledge protocols. Along the way, we propose a round-optimal multi-party adaptively secure coin tossing protocol in the plain model, that is of independent interest</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-13" class="outline-3">
+<h3 id="headline-13">
+(16.20 - 16.40) Secure DNA
+</h3>
+<div id="outline-text-headline-13" class="outline-text-3">
+<ul>
+<li>
+<p><em>Ivan Damgård</em></p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-14" class="outline-3">
+<h3 id="headline-14">
+(16.40 - 17.00) Appenzeller to Brie: Efficient Zero-Knowledge Proofs for Combinations of Boolean and Arithmetic Circuits
+</h3>
+<div id="outline-text-headline-14" class="outline-text-3">
+<ul>
+<li>
+<p>Carsten Baum, <em>Alexander Munch-Hansen</em> and Peter Scholl</p>
+</li>
+<li>
+<p><strong>Abstract:</strong> In this work, we construct protocols which check for consistencies between between different instances of Commit&amp;Prove-style Zero Knowledge protocols. To achieve this we modify the extended doubly-authenticated bits (edabits) approach by Escudero et al.(Crypto 2020) to the Zero-Knowledge setting.  Here we take advantage of the fact that the prover knows the entire witness, allowing for much more efficient edabit generation and verification. As an application we introduce protocols for efficiently computing the truncation and MSB of shared values in both F_p (for a large prime p) and Z_2^k (for a large k). These are also inspired by the works of Escudero et al., but we make optimisations to nearly all protocols for the domain of zero-knowledge.</p>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-15" class="outline-3">
+<h3 id="headline-15">
+(17.00 - ??.??) Coincidental Dinner
+</h3>
+</div>
+</div>
+</div>
+
+</main>
+
+  <footer>
+  
+  
+  <hr/>
+  © Template from <a href="https://yihui.org">Yihui Xie</a> 2017 &ndash; 2020
+  
+  </footer>
+  </body>
+</html>
+

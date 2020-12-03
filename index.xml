@@ -17,6 +17,31 @@
     </item>
     
     <item>
+      <title>Cryptoday</title>
+      <link>https://deescuderoo.github.io/cryptoday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deescuderoo.github.io/cryptoday/</guid>
+      <description>Program  (10.30 - 10.55) Perfectly Secure and Perfectly Correct Oblivious Parallel RAM with Sublinear Worst-Case Bandwidth Overhead    Adam Blatchley Hansen
+    (10.55 - 11.20) Optimal Oblivious Priority Queues    Zahra Jafargholi, Kasper Green Larsen and Mark Simkin
+    Abstract: In this work, we present the first asymptotically optimal oblivious priority queue, which matches the lower bound of Jacob, Larsen, and Nielsen (SODA&amp;#39;19).</description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>https://deescuderoo.github.io/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deescuderoo.github.io/other/</guid>
+      <description>A Crash Course on MPC  I am working on a series of posts explaining MPC from the ground up. These can be found in our blog, The Sugar Beet: Applied MPC.
+ The following are the current posts online:
+  Part 0, Introduction
+  Part 1, Basic Terminology and Essential Results
+  Part 2, Two-Party Computation using Beaver/Multiplication Triples
+  Part 3, Shamir Secret-Sharing</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://deescuderoo.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
