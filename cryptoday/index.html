@@ -84,7 +84,7 @@ Program
 <div id="outline-text-headline-5" class="outline-text-3">
 <ul>
 <li>
-<p><strong>Carsten Baum</strong></p>
+<p><em>Carsten Baum</em>, Cyprien Delpech de Saint Guilhem, Daniel Kales, Emmanuela Orsini, Peter Scholl and Greg Zaverucha</p>
 </li>
 <li>
 <p><strong>Abstract:</strong> Post-quantum secure digital signatures are an active area of research, particularly due to the ongoing NIST Post-Quantum Cryptography Standardization process. Among the many candidates, the Picnic scheme (CCS 2017) stands out by following an unorthodox design philosophy: Picnic creates signatures by generating a non-interactive zero-knowledge proof in the MPC-in-the-Head paradigm, to prove knowledge of the preimage of a one-way function. To instantiate this efficiently, Picnic uses the MPC-friendly LowMC block cipher as a one-way function. In follow-up work, Delpech de Saint Guilhem et al. introduced BBQ (SAC 2019), a signature scheme with a similar design strategy to Picnic, but relying on the standard AES cipher instead of LowMC. Unfortunately, BBQ signatures appear to be substantially larger than Picnic ones for comparable security levels. In this work we introduce Banquet, a digital signature scheme with a similar design strategy to BBQ, but greatly improved in several aspects: For similar parameters to BBQ, we cut the required proof size, and therefore signature size, by more than 50%. This brings the signature sizes much closer to the original Picnic scheme for similar MPC-in-the-Head parameters, without relying on a non-standard block cipher. Additionally, we provide a prototype implementation of Banquet which shows that both signing and verification can be done in under 11ms on conventional hardware, only two times slower than the optimized Picnic3 implementation. For BBQ, no practical performance results have been given.</p>
@@ -99,7 +99,7 @@ Program
 <div id="outline-text-headline-6" class="outline-text-3">
 <ul>
 <li>
-<p>Ivan Damgård, <strong>Daniel Escudero</strong> and Antigoni Polychroniadu</p>
+<p>Ivan Damgård, <em>Daniel Escudero</em> and Antigoni Polychroniadu</p>
 </li>
 </ul>
 </div>
