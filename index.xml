@@ -28,11 +28,11 @@
     </item>
     
     <item>
-      <title>Other</title>
-      <link>https://deescuderoo.github.io/other/</link>
+      <title>Dissemination</title>
+      <link>https://deescuderoo.github.io/dissemination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://deescuderoo.github.io/other/</guid>
+      <guid>https://deescuderoo.github.io/dissemination/</guid>
       <description>A Crash Course on MPC  I am working on a series of posts explaining MPC from the ground up. These can be found in our blog, The Sugar Beet: Applied MPC.
  The following are the current posts online:
   Part 0, Introduction
@@ -42,16 +42,28 @@
     </item>
     
     <item>
+      <title>Other</title>
+      <link>https://deescuderoo.github.io/other/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deescuderoo.github.io/other/</guid>
+      <description> Music  I enjoy playing and composing music.
+        </description>
+    </item>
+    
+    <item>
       <title>Publications</title>
       <link>https://deescuderoo.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/publications/</guid>
-      <description>Peer-Reviewed Publications  2021    Secure Training of Decision Trees with Continuous Attributes
+      <description>Peer-Reviewed Publications  2021    Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
+  Authors: Anders Dalskov, Daniel Escudero and Marcel Keller
+  ACNS 2021
+    Secure Training of Decision Trees with Continuous Attributes
   Authors: Mark Abspoel, Daniel Escudero, Nikolaj Volgushev
   PoPETs 2021
-    An Efficient Passive-to-Active Compiler for Honest-Majority MPC over Rings   Authors: Mark Abspoel, Anders Dalskov, Daniel Escudero and Ariel Nof   ACNS 2021
-      2020    Secure Evaluation of Quantized Neural Networks   Authors: Anders Dalskov, Daniel Escudero and Marcel Keller.</description>
+    An Efficient Passive-to-Active Compiler for Honest-Majority MPC over Rings   Authors: Mark Abspoel, Anders Dalskov, Daniel Escudero and Ariel Nof   ACNS 2021</description>
     </item>
     
     <item>
