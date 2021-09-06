@@ -12,19 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/about/</guid>
-      <description>Daniel Escudero   This website is still under construction
- Hello! Welcome to my homepage. I am Daniel Escudero, I started in May 2017 as a PhD student at the Cryptography and Security group at Aarhus University, Denmark. I&amp;#39;m currently working under the supervision of Ivan Damgård, Jesper Buus Nielsen and Peter Scholl. I obtained my Bachelor&amp;#39;s degree in Mathematics from Universidad Nacional de Colombia in 2016 where I had the valuable opportunity to work in a research project on Multivariate Public Key Cryptography during the last two years of my studies.</description>
-    </item>
-    
-    <item>
-      <title>Cryptoday</title>
-      <link>https://deescuderoo.github.io/cryptoday/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://deescuderoo.github.io/cryptoday/</guid>
-      <description>Program  (10.30 - 10.55) Perfectly Secure and Perfectly Correct Oblivious Parallel RAM with Sublinear Worst-Case Bandwidth Overhead    Adam Blatchley Hansen
-    (10.55 - 11.20) Optimal Oblivious Priority Queues    Zahra Jafargholi, Kasper Green Larsen and Mark Simkin
-    Abstract: In this work, we present the first asymptotically optimal oblivious priority queue, which matches the lower bound of Jacob, Larsen, and Nielsen (SODA&amp;#39;19).</description>
+      <description>Daniel Escudero   Hello! Welcome to my homepage. I am Daniel Escudero. Since September 2021 I am a cryptography researcher at JP Morgan AI Research. Prior to this, starting on May 2017 until August 2021, I was PhD student at the Cryptography and Security group at Aarhus University, Denmark, working under the supervision of Ivan Damgård, Jesper Buus Nielsen and Peter Scholl. I obtained my Bachelor&amp;#39;s degree in Mathematics from Universidad Nacional de Colombia in 2016 where I had the valuable opportunity to work in a research project on Multivariate Public Key Cryptography during the last two years of my studies.</description>
     </item>
     
     <item>
@@ -47,8 +35,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/other/</guid>
-      <description> Music  I enjoy playing and composing music.
-        </description>
+      <description> Music   I enjoy playing and composing music.
+ Daniel Escudero · Daniel Escudero         </description>
     </item>
     
     <item>
@@ -57,13 +45,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/publications/</guid>
-      <description>Peer-Reviewed Publications  2021    Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
-  Authors: Anders Dalskov, Daniel Escudero and Marcel Keller
-  ACNS 2021
-    Secure Training of Decision Trees with Continuous Attributes
-  Authors: Mark Abspoel, Daniel Escudero, Nikolaj Volgushev
-  PoPETs 2021
-    An Efficient Passive-to-Active Compiler for Honest-Majority MPC over Rings   Authors: Mark Abspoel, Anders Dalskov, Daniel Escudero and Ariel Nof   ACNS 2021</description>
+      <description>Peer-Reviewed Publications  2021    Improved Single-Round Secure Multiplication Using Regenerating Codes
+  Authors: Mark Abspoel, Ronald Cramer, Daniel Escudero, Ivan Damgård and Chaoping Xing
+  Asiacrypt 2021
+  Link
+    Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
+  Authors: Ivan Damgård, Daniel Escudero, Divya Ravi
+  TCC 2021
+    Improved Threshold Signatures, Proactive Secret Sharing, and Input Certification from LSS Isomorphisms</description>
     </item>
     
     <item>
@@ -72,15 +61,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/talks/</guid>
-      <description>2020    Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE
+      <description>2021    Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
+  USENIX 2021
+  Virtual Conference
+  August 2021
+      2020    Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE
   TPMPC 2020: Theory and Practice of Multi-Party Computation Workshops
   Virtual Conference
   June 2020
-    PRIMAL: A Framework for Secure Evaluation of Neural Networks
-  OpenMined Privacy Conference
-  Virtual Conference
-  September 2020
-    Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE</description>
+    PRIMAL: A Framework for Secure Evaluation of Neural Networks</description>
     </item>
     
     <item>
