@@ -30,11 +30,11 @@
     </item>
     
     <item>
-      <title>Other</title>
-      <link>https://deescuderoo.github.io/other/</link>
+      <title>Music</title>
+      <link>https://deescuderoo.github.io/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://deescuderoo.github.io/other/</guid>
+      <guid>https://deescuderoo.github.io/music/</guid>
       <description> Music   I enjoy playing and composing music.
  Daniel Escudero · Daniel Escudero         </description>
     </item>
@@ -45,14 +45,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/publications/</guid>
-      <description>Peer-Reviewed Publications  2021    Improved Single-Round Secure Multiplication Using Regenerating Codes
-  Authors: Mark Abspoel, Ronald Cramer, Daniel Escudero, Ivan Damgård and Chaoping Xing
-  Asiacrypt 2021
-  Link
-    Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
-  Authors: Ivan Damgård, Daniel Escudero, Divya Ravi
-  TCC 2021
-    Improved Threshold Signatures, Proactive Secret Sharing, and Input Certification from LSS Isomorphisms</description>
+      <description>Manuscripts  2021    Multiparty Computation over Z/2^kZ
+  PhD thesis, supervised by Prof. Ivan Damgård
+  Link (source code)
+      2018    Cubic Multivariate Cryptosystems based on Big Field Constructions and their Vulnerability to a Min-Rank Attack   Master thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
+  Link (source code)
+      2016    Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems   Bachelor&amp;#39;s thesis, supervised by Prof.</description>
     </item>
     
     <item>
@@ -61,15 +59,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/talks/</guid>
-      <description>2021    Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
+      <description>2021    Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
+  TCC 2021
+  Hybrid conference, Raleigh, USA
+  October 2021
+    Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
   USENIX 2021
   Virtual Conference
   August 2021
-      2020    Efficient Protocols for Oblivious Linear Function Evaluation from Ring-LWE
-  TPMPC 2020: Theory and Practice of Multi-Party Computation Workshops
-  Virtual Conference
-  June 2020
-    PRIMAL: A Framework for Secure Evaluation of Neural Networks</description>
+      2020    PRIMAL: A Framework for Secure Evaluation of Neural Networks</description>
     </item>
     
     <item>
