@@ -59,15 +59,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/talks/</guid>
-      <description>2021    Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
-  TCC 2021
-  Hybrid conference, Raleigh, USA
-  October 2021
-    Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
-  USENIX 2021
+      <description>2021    Improved single-round secure multiplication using regenerating codes
+  Asiacrypt 2021
   Virtual Conference
-  August 2021
-      2020    PRIMAL: A Framework for Secure Evaluation of Neural Networks</description>
+  December 2021
+    Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
+  TCC 2021
+  Hybrid Conference, Raleigh, USA
+  November 2021
+    Honest majority MPC with abort with minimal online communication
+  Latincrypt 2021
+  Virtual Conference</description>
     </item>
     
     <item>
