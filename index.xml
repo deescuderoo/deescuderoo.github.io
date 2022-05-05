@@ -21,12 +21,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/dissemination/</guid>
-      <description>A Crash Course on MPC  I am working on a series of posts explaining MPC from the ground up. These can be found in our blog, The Sugar Beet: Applied MPC.
+      <description>A Crash Course on MPC  I am working on a series of posts explaining MPC from the ground up.
  The following are the current posts online:
-  Part 0, Introduction
-  Part 1, Basic Terminology and Essential Results
-  Part 2, Two-Party Computation using Beaver/Multiplication Triples
-  Part 3, Shamir Secret-Sharing</description>
+ Part 0, Introduction Part 1, Basic Terminology and Essential Results Part 2, Two-Party Computation using Beaver/Multiplication Triples Part 3, Shamir Secret-Sharing Part 4, Honest-Majority MPC with Passive Security Part 5, Error Detection and Error Correction Part 6: MPC with Active Security for t&amp;lt;n/3 Part 7: Honest-Majority MPC with Active Security Part 8: Two-Party MPC with Active Security    An Introduction to Secret-Sharing-Based Secure Multiparty Computation   I&amp;#39;m in the process of writing an accessible, comprehensive and self-contained introduction to (secret-sharing) based multiparty computation.</description>
     </item>
     
     <item>
@@ -46,11 +43,7 @@
       
       <guid>https://deescuderoo.github.io/publications/</guid>
       <description>Manuscripts  2021    Multiparty Computation over Z/2^kZ
-  PhD thesis, supervised by Prof. Ivan Damgård
-  Link (source code)
-      2018    Cubic Multivariate Cryptosystems based on Big Field Constructions and their Vulnerability to a Min-Rank Attack   Master thesis, supervised by Prof. Daniel Cabarcas Jaramillo.
-  Link (source code)
-      2016    Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems   Bachelor&amp;#39;s thesis, supervised by Prof.</description>
+ PhD thesis, supervised by Prof. Ivan Damgård Link (source code)      2018    Cubic Multivariate Cryptosystems based on Big Field Constructions and their Vulnerability to a Min-Rank Attack  Master thesis, supervised by Prof. Daniel Cabarcas Jaramillo. Link (source code)      2016    Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems  Bachelor&amp;#39;s thesis, supervised by Prof.</description>
     </item>
     
     <item>
@@ -60,16 +53,10 @@
       
       <guid>https://deescuderoo.github.io/talks/</guid>
       <description>2021    Improved single-round secure multiplication using regenerating codes
-  Asiacrypt 2021
-  Virtual Conference
-  December 2021
-    Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
-  TCC 2021
-  Hybrid Conference, Raleigh, USA
-  November 2021
-    Honest majority MPC with abort with minimal online communication
-  Latincrypt 2021
-  Virtual Conference</description>
+ Asiacrypt 2021 Virtual Conference December 2021    Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
+ TCC 2021 Hybrid Conference, Raleigh, USA November 2021    Honest majority MPC with abort with minimal online communication
+ Latincrypt 2021 Virtual Conference October 2021    Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
+ USENIX 2021 Virtual Conference August 2021      2020    PRIMAL: A Framework for Secure Evaluation of Neural Networks</description>
     </item>
     
     <item>
@@ -78,14 +65,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/teaching/</guid>
-      <description>I&amp;#39;ve been a teaching assistant in the following courses.
-  Machine Learning (Aarhus University, fall 2020)
-  Computer Architecture, OSs and Networking (Aarhus University, spring 2019 and spring 2020)
-  Distributed Systems and Security (Aarhus University, fall 2018)
-  Computability and Logic (Aarhus University, spring 2018)
-  Machine Learning (Aarhus University, fall 2017)
-  Vector and Analytic Geometry (UNAL, 2016)
-  Basic Mathematics (UNAL, 2015)</description>
+      <description> I&amp;#39;ve been a teaching assistant in the following courses.
+ Machine Learning (Aarhus University, fall 2020) Computer Architecture, OSs and Networking (Aarhus University, spring 2019 and spring 2020) Distributed Systems and Security (Aarhus University, fall 2018) Computability and Logic (Aarhus University, spring 2018) Machine Learning (Aarhus University, fall 2017) Vector and Analytic Geometry (UNAL, 2016) Basic Mathematics (UNAL, 2015) Linear Algebra (UNAL, 2014)  </description>
     </item>
     
   </channel>
