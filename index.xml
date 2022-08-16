@@ -52,11 +52,11 @@ PhD thesis, supervised by Prof. Ivan Damgård Link (source code) 2018 Cubic Mult
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/talks/</guid>
-      <description>2021 Improved single-round secure multiplication using regenerating codes
+      <description>2022 More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings
+CRYPTO 2022 Santa Barbara, USA August 2022 Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority (Invited Talk)
+International Conference on Coding and Cryptography (ICCC) 2022 Virtual Event May 2022 2021 Improved single-round secure multiplication using regenerating codes
 Asiacrypt 2021 Virtual Conference December 2021 Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
-TCC 2021 Hybrid Conference, Raleigh, USA November 2021 Honest majority MPC with abort with minimal online communication
-Latincrypt 2021 Virtual Conference October 2021 Fantastic Four: Honest-Majority Four-Party Secure Computation With Malicious Security
-USENIX 2021 Virtual Conference August 2021 2020 PRIMAL: A Framework for Secure Evaluation of Neural Networks</description>
+TCC 2021 Hybrid Conference, Raleigh, USA November 2021 Honest majority MPC with abort with minimal online communication</description>
     </item>
     
     <item>
