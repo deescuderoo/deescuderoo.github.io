@@ -42,8 +42,10 @@ Daniel Escudero · Daniel Escudero </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/publications/</guid>
-      <description>Manuscripts 2021 Multiparty Computation over Z/2^kZ
-PhD thesis, supervised by Prof. Ivan Damgård Link (source code) 2018 Cubic Multivariate Cryptosystems based on Big Field Constructions and their Vulnerability to a Min-Rank Attack Master thesis, supervised by Prof. Daniel Cabarcas Jaramillo. Link (source code) 2016 Groebner Bases and Applications to the Security of Multivariate Public Key Cryptosystems Bachelor&amp;#39;s thesis, supervised by Prof. Daniel Cabarcas Jaramillo. Link (source code) Peer-Reviewed Publications 2022 Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority</description>
+      <description>Peer-Reviewed Publications 2022 Vector Commitments over Rings and Compressed Sigma-Protocols
+Authors: Thomas Attema, Ignacio Cascudo, Ronald Cramer, Ivan Damgård and Daniel Escudero TCC 2022 Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
+Authors: Anders Dalskov, Ariel Nof and Daniel Escudero CCS 2022 TurboPack: Honest Majority MPC with Constant Online Communication
+Authors: Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou and Yifan Song CCS 2022 More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings Authors: Daniel Escudero, Chaoping Xing, Chen Yuan CRYPTO 2022 2021 Improved Single-Round Secure Multiplication Using Regenerating Codes</description>
     </item>
     
     <item>
