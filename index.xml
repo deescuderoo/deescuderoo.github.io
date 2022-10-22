@@ -43,9 +43,9 @@ Daniel Escudero · Daniel Escudero </description>
       
       <guid>https://deescuderoo.github.io/publications/</guid>
       <description>Peer-Reviewed Publications 2022 Vector Commitments over Rings and Compressed Sigma-Protocols
-Authors: Thomas Attema, Ignacio Cascudo, Ronald Cramer, Ivan Damgård and Daniel Escudero TCC 2022 Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
-Authors: Anders Dalskov, Ariel Nof and Daniel Escudero CCS 2022 TurboPack: Honest Majority MPC with Constant Online Communication
-Authors: Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou and Yifan Song CCS 2022 More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings Authors: Daniel Escudero, Chaoping Xing, Chen Yuan CRYPTO 2022 2021 Improved Single-Round Secure Multiplication Using Regenerating Codes</description>
+Authors: Thomas Attema, Ignacio Cascudo, Ronald Cramer, Ivan Damgård and Daniel Escudero TCC 2022 Link Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
+Authors: Anders Dalskov, Ariel Nof and Daniel Escudero CCS 2022 Link TurboPack: Honest Majority MPC with Constant Online Communication
+Authors: Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou and Yifan Song CCS 2022 Link More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings Authors: Daniel Escudero, Chaoping Xing, Chen Yuan CRYPTO 2022 Link 2021 Improved Single-Round Secure Multiplication Using Regenerating Codes</description>
     </item>
     
     <item>
@@ -54,11 +54,10 @@ Authors: Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou and Yifan Song CC
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/talks/</guid>
-      <description>2022 More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings
+      <description>2022 Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
+CCS 2022 Los Angeles, USA November 2022 More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings
 CRYPTO 2022 Santa Barbara, USA August 2022 Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority (Invited Talk)
-International Conference on Coding and Cryptography (ICCC) 2022 Virtual Event May 2022 2021 Improved single-round secure multiplication using regenerating codes
-Asiacrypt 2021 Virtual Conference December 2021 Information-Theoretically Secure MPC against Mixed Dynamic Adversaries
-TCC 2021 Hybrid Conference, Raleigh, USA November 2021 Honest majority MPC with abort with minimal online communication</description>
+International Conference on Coding and Cryptography (ICCC) 2022 Virtual Event May 2022 2021 Improved single-round secure multiplication using regenerating codes</description>
     </item>
     
     <item>
