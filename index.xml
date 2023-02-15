@@ -42,10 +42,24 @@ Daniel Escudero · Daniel Escudero </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/publications/</guid>
-      <description>Peer-Reviewed Publications 2022 Vector Commitments over Rings and Compressed Sigma-Protocols
+      <description>Peer-Reviewed Publications 2023 SuperPack: Dishonest Majority MPC with Constant Online Communication
+Authors: Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, Yifan Song and Chenkai Weng Eurocrypt 2022 2022 Vector Commitments over Rings and Compressed Sigma-Protocols
 Authors: Thomas Attema, Ignacio Cascudo, Ronald Cramer, Ivan Damgård and Daniel Escudero TCC 2022 Link Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
-Authors: Anders Dalskov, Ariel Nof and Daniel Escudero CCS 2022 Link TurboPack: Honest Majority MPC with Constant Online Communication
-Authors: Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou and Yifan Song CCS 2022 Link More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings Authors: Daniel Escudero, Chaoping Xing, Chen Yuan CRYPTO 2022 Link 2021 Improved Single-Round Secure Multiplication Using Regenerating Codes</description>
+Authors: Anders Dalskov, Daniel Escudero and Ariel Nof CCS 2022 Link TurboPack: Honest Majority MPC with Constant Online Communication</description>
+    </item>
+    
+    <item>
+      <title>Seminar</title>
+      <link>https://deescuderoo.github.io/seminar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://deescuderoo.github.io/seminar/</guid>
+      <description> At AlgoCRYPT CoE, we run weekly seminars on topics related to Cryptography. If you want to give a talk, please contact me.
+Time Tuesdays 12.00-13.00 EST
+Location Remote https://jpmchase.zoom.us/my/escudero (You will be placed in a waiting room)
+In person 383 Madison Avenue, New York City. Please contact me if you plan on attending in person since we need to register you and let you in.
+Schedule Nov 23th
+Threshold-Optimal MPC With Friends and Foes Nikolas Melisaris — Aarhus University Nov 29th Dec 6th Dec 13th Dec 20th Dec 27th (break) Jan 3rd (break) Jan 10th Jan 17th Jan 24th Jan 31th Feb 7th </description>
     </item>
     
     <item>
