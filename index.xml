@@ -43,7 +43,7 @@ Daniel Escudero · Daniel Escudero </description>
       
       <guid>https://deescuderoo.github.io/publications/</guid>
       <description>Peer-Reviewed Publications 2023 SuperPack: Dishonest Majority MPC with Constant Online Communication
-Authors: Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, Yifan Song and Chenkai Weng Eurocrypt 2022 2022 Vector Commitments over Rings and Compressed Sigma-Protocols
+Authors: Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, Yifan Song and Chenkai Weng Eurocrypt 2022 Link 2022 Vector Commitments over Rings and Compressed Sigma-Protocols
 Authors: Thomas Attema, Ignacio Cascudo, Ronald Cramer, Ivan Damgård and Daniel Escudero TCC 2022 Link Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
 Authors: Anders Dalskov, Daniel Escudero and Ariel Nof CCS 2022 Link TurboPack: Honest Majority MPC with Constant Online Communication</description>
     </item>
@@ -68,10 +68,11 @@ Threshold-Optimal MPC With Friends and Foes Nikolas Melisaris — Aarhus Univers
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deescuderoo.github.io/talks/</guid>
-      <description>2022 Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority
+      <description>2022 SuperPack: Dishonest Majority MPC with Constant Online Communication
 CCS 2022 Los Angeles, USA November 2022 More Efficient Dishonest Majority Secure Computation over Z_2^k via Galois Rings
 CRYPTO 2022 Santa Barbara, USA August 2022 Fast Fully Secure Multi-Party Computation over Any Ring with Two-Thirds Honest Majority (Invited Talk)
-International Conference on Coding and Cryptography (ICCC) 2022 Virtual Event May 2022 2021 Improved single-round secure multiplication using regenerating codes</description>
+International Conference on Coding and Cryptography (ICCC) 2022 Virtual Event May 2022 2021 Improved single-round secure multiplication using regenerating codes
+Asiacrypt 2021 Virtual Conference December 2021 Information-Theoretically Secure MPC against Mixed Dynamic Adversaries</description>
     </item>
     
     <item>
