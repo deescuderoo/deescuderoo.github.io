@@ -75,20 +75,133 @@ This text serves as a general guide to this topic, focusing more on practical as
 <p>
 This work in progress currently includes an introduction to several core concepts in secure multiparty computation, an overview of simulation-based security, and detailed constructions for honest and two-thirds honest majority MPC, and also dishonest majority in the preprocessing model.</p>
 <ul>
-<li><a href="https://eprint.iacr.org/2022/062.pdf">Link</a></li>
+<li>Link to document: <a href="https://eprint.iacr.org/2022/062.pdf"><a href="https://eprint.iacr.org/2022/062.pdf">https://eprint.iacr.org/2022/062.pdf</a></a></li>
 </ul>
 </div>
 </div>
 <div id="outline-container-headline-3" class="outline-2">
 <h2 id="headline-3">
-(In Spanish) A Course on MPC, FHE and ZKP
+A Course on MPC, FHE and ZKP: Universidad Nacional de Colombia (In Spanish, 2023)
 </h2>
 <div id="outline-text-headline-3" class="outline-text-2">
-<p>
-A master-level course I taught in Universidad Nacional de Colombia, Sede Medellín, on Secure Multiparty Computation, Fully Homomorphic Encryption, and Zero-Knowledge Proofs.</p>
+<p>A master-level course I taught in Universidad Nacional de Colombia, Sede Medellín (my <em>alma mater</em>), on Secure Multiparty Computation, Fully Homomorphic Encryption, and Zero-Knowledge Proofs.</p>
 <ul>
+<li>Course plan, resources and homeworks: <a href="/pdfs/TAC-2023.pdf">here</a></li>
 <li>Videos: <a href="https://youtube.com/playlist?list=PLeld-Hlf3EnrwZnvOT4IH5-2a-6HRaTG0">https://youtube.com/playlist?list=PLeld-Hlf3EnrwZnvOT4IH5-2a-6HRaTG0</a></li>
 </ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+A Course on MPC: Virtual Course at Shanghai Jiao Tong University (2020-2021)
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
+Part 1: Definitions, results and basic constructions
+</h3>
+<div id="outline-text-headline-5" class="outline-text-3">
+<div id="outline-container-headline-6" class="outline-4">
+<h4 id="headline-6">
+Lecture 1.1
+</h4>
+<div id="outline-text-headline-6" class="outline-text-4">
+<p>This lecture provides basic definitions of secure multiparty computation, including passive vs active security, information-threoretic vs computational security, abort vs fairness vs guaranteed output delivery, and some others.
+An overview of positive results attainable for each setting is also given.
+Finally, it also presents a general recipe to obtain MPC protocols using secret-sharing and Beaver/multiplication triples.</p>
+<ul>
+<li>Link to video: <a href="https://www.bilibili.com/video/BV1Du411Z7vs/">https://www.bilibili.com/video/BV1Du411Z7vs/</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-4">
+<h4 id="headline-7">
+Lecture 1.2
+</h4>
+<div id="outline-text-headline-7" class="outline-text-4">
+<p>This lecture introduces Shamir secret-sharing and uses it to obtain a passively secure protocol for t&lt;n/2, which is then extended to active security under the threshold t&lt;n/3. Finally, active statistical security for t&lt;n/2 is described.
+Towards the end of the lecture the notion of replicated secret-sharing is also presented.</p>
+<ul>
+<li>Link to video: <a href="https://www.bilibili.com/video/BV123411C7se/">https://www.bilibili.com/video/BV123411C7se/</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-8" class="outline-4">
+<h4 id="headline-8">
+Lecture 1.3
+</h4>
+<div id="outline-text-headline-8" class="outline-text-4">
+<p>This lecture focuses on the dishonest majority setting, where t&lt;n. First, an MPC protocol in this setting is presented assuming certain preprocessed data in the form of multiplication triples.
+For active security, it is shown how to use message authentication codes (MACs) to prevent cheating.
+Then, to instantiate this preprocessing (in the passive case), the notions of oblivious transfer (OT) and oblivious linear evaluation (OLE) are presented, and they are instantiated using ElGamal encryption and additively homomorphic encryption based on Paillier, respectively.</p>
+<ul>
+<li>Link to video: <a href="https://www.bilibili.com/video/BV1c34y1m7Ko/">https://www.bilibili.com/video/BV1c34y1m7Ko/</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-4">
+<h4 id="headline-9">
+Lecture 1.4
+</h4>
+<div id="outline-text-headline-9" class="outline-text-4">
+<p>This lecture discusses applications and efficiency trade-offs of MPC.
+This includes use-cases where MPC has been used, and also frameworks for MPC such as MP-SPDZ and some others.
+Then, a special-purpose protocol for the task of signing with ECDSA using a secret-shared signing key is presented.
+A protocol for proactive secret-sharing is also presented.
+For the second part of the lecture applications that involve real-valued arithmetic are discussed.
+This includes secure truncation, which is necessary for emulating fixed-point arithmetic, and also secure comparison.
+Finally, applications to neural networks are presented.</p>
+<ul>
+<li>Link to video: <a href="https://www.bilibili.com/video/BV1J3411C7P5/">https://www.bilibili.com/video/BV1J3411C7P5/</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-3">
+<h3 id="headline-10">
+Part 2: Formalization, simulation-based security and impossibility results
+</h3>
+<div id="outline-text-headline-10" class="outline-text-3">
+<div id="outline-container-headline-11" class="outline-4">
+<h4 id="headline-11">
+Lecture 2.1
+</h4>
+<div id="outline-text-headline-11" class="outline-text-4">
+<p>This lecture presents the framework to prove security of MPC protocols, namely simulation-based security, starting with two parties and passive security.
+Then, the security of a basic two-party protocol studied before, which uses additive secret-sharing and multiplication triples, is proven formally.
+This implies describing in full detail a simulator for the protocol, and arguing the indistinguishability of the real and ideal worlds.</p>
+<ul>
+<li>Link to video: <a href="https://www.bilibili.com/video/BV1Pv41137tM/">https://www.bilibili.com/video/BV1Pv41137tM/</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-12" class="outline-4">
+<h4 id="headline-12">
+Lecture 2.2
+</h4>
+<div id="outline-text-headline-12" class="outline-text-4">
+<p>This lecture extends the notion of simulation-based security to the case of active security, and then the security of a previously studied two-party protocol using multiplication triples and MAC-based authentication is formally proven.
+Finally, a note on the composability of protocols is made, and the universal composability (UC) framework is introduced.</p>
+<ul>
+<li>Link to video: <a href="https://www.bilibili.com/video/BV1CP4y1t7H2/">https://www.bilibili.com/video/BV1CP4y1t7H2/</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-13" class="outline-4">
+<h4 id="headline-13">
+Lecture 2.3
+</h4>
+<div id="outline-text-headline-13" class="outline-text-4">
+<p>This lecture presents more formally the UC framework, and the security of the Shamir-based actively secure protocol for t&lt;n/3 studied in lecture 1.2 is formally proven within this framework.
+Finally, some intuition on some of the most fundamental impossibility results in the area of MPC is provided, namely: (1) information-theoretic security requires honest majority, and (2) perfect and active security requires t&lt;n/3.</p>
+<ul>
+<li>Link to video: <a href="https://www.bilibili.com/video/BV1xf4y1g7FA/">https://www.bilibili.com/video/BV1xf4y1g7FA/</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 
