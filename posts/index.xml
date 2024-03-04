@@ -6,21 +6,6 @@
     <description>Recent content in Posts on Personal Website and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2020 12:06:51 -0500</lastBuildDate><atom:link href="https://deescuderoo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo</title>
-      <link>https://deescuderoo.github.io/posts/hugo/</link>
-      <pubDate>Fri, 24 Apr 2020 12:06:51 -0500</pubDate>
-      
-      <guid>https://deescuderoo.github.io/posts/hugo/</guid>
-      <description>Tutorials    https://www.davd.io/blog-with-hugo-1-getting-started/
-  https://www.jakewiesler.com/blog/hugo-directory-structure/
-  https://www.sarasoueidan.com/blog/jekyll-ghpages-to-hugo-netlify/
-    Server  To run server:
-$ hugo server  Use the -D flag if you want to compile draft files too.
-  Other things    Taxonomies are like tag mechanisms. I don&amp;#39;t need to use them (yet).
-  _index.org in the main content/ directory is used to render the homepage. In general, an _index.</description>
-    </item>
-    
+    <atom:link href="https://deescuderoo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

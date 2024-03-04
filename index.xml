@@ -5,86 +5,56 @@
     <link>https://deescuderoo.github.io/</link>
     <description>Recent content in Personal Website of Daniel Escudero on Personal Website and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://deescuderoo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://deescuderoo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://deescuderoo.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://deescuderoo.github.io/about/</guid>
       <description>Daniel Escudero Hello! Welcome to my homepage. I am Daniel Escudero, and I am a Research Scientist at JP Morgan AlgoCRYPT Center of Excellence. Prior to this, starting on May 2017 until August 2021, I was a PhD student at the Cryptography and Security group at Aarhus University, Denmark, working under the supervision of Ivan Damgård, Jesper Buus Nielsen and Peter Scholl. I obtained my Bachelor&amp;#39;s degree in Mathematics from Universidad Nacional de Colombia in 2016 where I had the valuable opportunity to work in a research project on Multivariate Public Key Cryptography during the last two years of my studies.</description>
     </item>
-    
     <item>
       <title>Dissemination</title>
       <link>https://deescuderoo.github.io/dissemination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://deescuderoo.github.io/dissemination/</guid>
-      <description>A Crash Course on MPC I am working on a series of posts explaining MPC from the ground up.
-The following are the current posts online:
-Part 0, Introduction Part 1, Basic Terminology and Essential Results Part 2, Two-Party Computation using Beaver/Multiplication Triples Part 3, Shamir Secret-Sharing Part 4, Honest-Majority MPC with Passive Security Part 5, Error Detection and Error Correction Part 6: MPC with Active Security for t&amp;lt;n/3 Part 7: Honest-Majority MPC with Active Security Part 8: Two-Party MPC with Active Security An Introduction to Secret-Sharing-Based Secure Multiparty Computation I&amp;#39;m in the process of writing an accessible, comprehensive and self-contained introduction to (secret-sharing) based multiparty computation.</description>
+      <description>A Crash Course on MPC I am working on a series of posts explaining MPC from the ground up.&#xA;The following are the current posts online:&#xA;Part 0, Introduction Part 1, Basic Terminology and Essential Results Part 2, Two-Party Computation using Beaver/Multiplication Triples Part 3, Shamir Secret-Sharing Part 4, Honest-Majority MPC with Passive Security Part 5, Error Detection and Error Correction Part 6: MPC with Active Security for t&amp;lt;n/3 Part 7: Honest-Majority MPC with Active Security Part 8: Two-Party MPC with Active Security An Introduction to Secret-Sharing-Based Secure Multiparty Computation I&amp;#39;m in the process of writing an accessible, comprehensive and self-contained introduction to (secret-sharing) based multiparty computation.</description>
     </item>
-    
     <item>
       <title>Music</title>
       <link>https://deescuderoo.github.io/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://deescuderoo.github.io/music/</guid>
-      <description> Music I enjoy playing and composing music.
-Daniel Escudero · Daniel Escudero </description>
+      <description> Music I enjoy playing and composing music.&#xA;Daniel Escudero · Daniel Escudero </description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>https://deescuderoo.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://deescuderoo.github.io/publications/</guid>
-      <description>Peer-Reviewed Publications 2023 Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications
-Authors: Daniel Escudero, Hongqing Liu, Chaoping Xing and Chen Yuan Asiacrypt 2023 Link On Fully-Secure Honest Majority MPC without n^2 Round Overhead
-Authors: Daniel Escudero and Serge Fehr Latincrypt 2023 Link SuperPack: Dishonest Majority MPC with Constant Online Communication
-Authors: Daniel Escudero, Vipul Goyal, Antigoni Polychroniadou, Yifan Song and Chenkai Weng Eurocrypt 2023 Link Phoenix: Secure Computation in an Unstable Network with Dropouts and Comebacks</description>
+      <description>Peer-Reviewed Publications 2024 On Information-Theoretic Secure Multiparty Computation with Local Repairability&#xA;Authors: Daniel Escudero, Ivan Tjuawinata and Chaoping Xing PKC 2024 Link 2023 Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications&#xA;Authors: Daniel Escudero, Hongqing Liu, Chaoping Xing and Chen Yuan Asiacrypt 2023 Link On Fully-Secure Honest Majority MPC without n^2 Round Overhead&#xA;Authors: Daniel Escudero and Serge Fehr Latincrypt 2023 Link SuperPack: Dishonest Majority MPC with Constant Online Communication</description>
     </item>
-    
     <item>
       <title>Seminar</title>
       <link>https://deescuderoo.github.io/seminar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://deescuderoo.github.io/seminar/</guid>
-      <description> At AlgoCRYPT CoE, we run weekly seminars on topics related to Cryptography. If you want to give a talk, please contact me.
-Time Tuesdays 12.00-13.00 EST
-Location Remote https://jpmchase.zoom.us/my/escudero (You will be placed in a waiting room)
-In person 383 Madison Avenue, New York City. Please contact me if you plan on attending in person since we need to register you and let you in.
-Schedule Nov 23th
-Threshold-Optimal MPC With Friends and Foes Nikolas Melisaris — Aarhus University Nov 29th Dec 6th Dec 13th Dec 20th Dec 27th (break) Jan 3rd (break) Jan 10th Jan 17th Jan 24th Jan 31th Feb 7th </description>
+      <description> At AlgoCRYPT CoE, we run weekly seminars on topics related to Cryptography. If you want to give a talk, please contact me.&#xA;Time Tuesdays 12.00-13.00 EST&#xA;Location Remote https://jpmchase.zoom.us/my/escudero (You will be placed in a waiting room)&#xA;In person 383 Madison Avenue, New York City. Please contact me if you plan on attending in person since we need to register you and let you in.&#xA;Schedule Nov 23th&#xA;Threshold-Optimal MPC With Friends and Foes Nikolas Melisaris — Aarhus University Nov 29th Dec 6th Dec 13th Dec 20th Dec 27th (break) Jan 3rd (break) Jan 10th Jan 17th Jan 24th Jan 31th Feb 7th </description>
     </item>
-    
     <item>
       <title>Talks</title>
       <link>https://deescuderoo.github.io/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://deescuderoo.github.io/talks/</guid>
-      <description>2023 A Crash Course on Secure Multiparty Computation
-ASCrypto, official IACR Cryptology school co-located with Latincrypt 2023 Quito, Ecuador October 2023 On Fully-Secure Honest Majority MPC without n^2 Round Overhead
-Latincrypt 2023 Quito, Ecuador October 2023 On Fully-Secure Honest Majority MPC without n^2 Round Overhead (Invited Talk)
-International Conference on Coding and Cryptography (ICCC) 2023 Virtual Event September 2023 Panelist at Crypto meets AI - GHTC
-Affiliated event at CRYPTO&amp;#39;23 Santa Barbara (CA), USA August 2023 Phoenix: Secure Computation in an Unstable Network with Dropouts and Comebacks</description>
+      <description>2023 A Crash Course on Secure Multiparty Computation&#xA;ASCrypto, official IACR Cryptology school co-located with Latincrypt 2023 Quito, Ecuador October 2023 On Fully-Secure Honest Majority MPC without n^2 Round Overhead&#xA;Latincrypt 2023 Quito, Ecuador October 2023 On Fully-Secure Honest Majority MPC without n^2 Round Overhead (Invited Talk)&#xA;International Conference on Coding and Cryptography (ICCC) 2023 Virtual Event September 2023 Panelist at Crypto meets AI - GHTC&#xA;Affiliated event at CRYPTO&amp;#39;23 Santa Barbara (CA), USA August 2023 Phoenix: Secure Computation in an Unstable Network with Dropouts and Comebacks</description>
     </item>
-    
     <item>
       <title>Teaching</title>
       <link>https://deescuderoo.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://deescuderoo.github.io/teaching/</guid>
-      <description> Curso de criptografía - UNAL (2023) During the first semester of 2023, I taught a remote master-level course on Multiparty Computation, Homomorphic Encryption and Zero-Knowledge Proofs, at Universidad Nacional de Colombia, my undergrad university.
-A Crash Course on MPC - Shanghai Jiao Tong University (2021) Teaching Assistant During the course of my PhD, I had the chance of being a teaching assistant for the following courses.
-Machine Learning (Aarhus University, fall 2020) Computer Architecture, OSs and Networking (Aarhus University, spring 2019 and spring 2020) Distributed Systems and Security (Aarhus University, fall 2018) Computability and Logic (Aarhus University, spring 2018) Machine Learning (Aarhus University, fall 2017) Vector and Analytic Geometry (UNAL, 2016) Basic Mathematics (UNAL, 2015) Linear Algebra (UNAL, 2014) </description>
+      <description> Curso de criptografía - UNAL (2023) During the first semester of 2023, I taught a remote master-level course on Multiparty Computation, Homomorphic Encryption and Zero-Knowledge Proofs, at Universidad Nacional de Colombia, my undergrad university.&#xA;A Crash Course on MPC - Shanghai Jiao Tong University (2021) Teaching Assistant During the course of my PhD, I had the chance of being a teaching assistant for the following courses.&#xA;Machine Learning (Aarhus University, fall 2020) Computer Architecture, OSs and Networking (Aarhus University, spring 2019 and spring 2020) Distributed Systems and Security (Aarhus University, fall 2018) Computability and Logic (Aarhus University, spring 2018) Machine Learning (Aarhus University, fall 2017) Vector and Analytic Geometry (UNAL, 2016) Basic Mathematics (UNAL, 2015) Linear Algebra (UNAL, 2014) </description>
     </item>
-    
   </channel>
 </rss>
