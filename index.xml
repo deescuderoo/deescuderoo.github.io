@@ -4,7 +4,7 @@
     <title>Personal Website of Daniel Escudero on Personal Website and Blog</title>
     <link>https://deescuderoo.github.io/</link>
     <description>Recent content in Personal Website of Daniel Escudero on Personal Website and Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://deescuderoo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -33,7 +33,7 @@
       <link>https://deescuderoo.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://deescuderoo.github.io/publications/</guid>
-      <description>Peer-Reviewed Publications 2024 On Information-Theoretic Secure Multiparty Computation with Local Repairability&#xA;Authors: Daniel Escudero, Ivan Tjuawinata and Chaoping Xing PKC 2024 Link 2023 Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications&#xA;Authors: Daniel Escudero, Hongqing Liu, Chaoping Xing and Chen Yuan Asiacrypt 2023 Link On Fully-Secure Honest Majority MPC without n^2 Round Overhead&#xA;Authors: Daniel Escudero and Serge Fehr Latincrypt 2023 Link SuperPack: Dishonest Majority MPC with Constant Online Communication</description>
+      <description>Unless noted otherwise, publications are in alphabetical order.&#xA;Peer-Reviewed Publications 2024 On Information-Theoretic Secure Multiparty Computation with Local Repairability&#xA;Authors: Daniel Escudero, Ivan Tjuawinata and Chaoping Xing PKC 2024 Link Fully Secure MPC and zk-FLIOP Over Rings: New Constructions, Improvements and Extensions&#xA;Authors: Anders Dalskov, Daniel Escudero and Ariel Nof CRYPTO 2024 Multi-Verifier Zero-Knowledge Proofs for Any Constant Fraction of Corrupted Verifiers&#xA;Authors: Daniel Escudero, Antigoni Polychroniadou, Yifan Song and Chenkai Weng CCS 2024 Link 2023 Degree-D Reverse Multiplication-Friendly Embeddings: Constructions and Applications</description>
     </item>
     <item>
       <title>Seminar</title>
